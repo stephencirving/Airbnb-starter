@@ -42,7 +42,7 @@
 
 .rentalsContentL {
     width: 50%;
-    padding:30px;
+    padding: 30px;
     height: calc(100vh - 150px);
     overflow: scroll;
 }
